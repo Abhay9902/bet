@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+.next/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.pem
+*.tsbuildinfo
+.claude/settings.local.json
+backend/src/generated/
